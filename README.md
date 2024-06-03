@@ -1,10 +1,10 @@
 # 👋 平台简介
 
 {% hint style="info" %}
-**GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+该文档为高性能计算平台用户使用文档，内容包括如何登录集群、如何运行作业和如何使用软件等。
 {% endhint %}
 
-## Overview
+## 集群概览
 
 Here are a couple of example overviews from products with really great docs:
 
@@ -20,12 +20,16 @@ Here are a couple of example overviews from products with really great docs:
 
 ## Quick links
 
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+{% content-ref url="current_cluster/1.1-tai-hangihao-zhi-suan-ji-qun.md" %}
+[1.1-tai-hangihao-zhi-suan-ji-qun.md](current\_cluster/1.1-tai-hangihao-zhi-suan-ji-qun.md)
+{% endcontent-ref %}
+
+{% content-ref url="current_cluster/1.2-xi-baoihao-cun-chu-ji-qun.md" %}
+[1.2-xi-baoihao-cun-chu-ji-qun.md](current\_cluster/1.2-xi-baoihao-cun-chu-ji-qun.md)
 {% endcontent-ref %}
 
 ## Get Started
